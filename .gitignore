@@ -25,6 +25,7 @@ codex-cli/README.md
 .nyc_output/
 .jest/
 *.tsbuildinfo
+.obsidian/
 
 # logs
 *.log
